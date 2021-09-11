@@ -10,6 +10,9 @@ private:
 	int mana;
 
 public:
+	
+	Character() = default;
+
 	Character(string name, int power, int health, int mana);
 
 	Character(const Character& ot);

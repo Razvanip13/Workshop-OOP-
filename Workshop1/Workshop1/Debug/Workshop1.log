@@ -1,4 +1,6 @@
-﻿  Character.cpp
+﻿  Mage.cpp
+D:\Workshop\Workshop_git\Workshop1\Workshop1\Mage.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   main.cpp
+D:\Workshop\Workshop_git\Workshop1\Workshop1\Mage.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating Code...
   Workshop1.vcxproj -> D:\Workshop\Workshop_git\Workshop1\Debug\Workshop1.exe
